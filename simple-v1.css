@@ -99,6 +99,11 @@ main {
   padding-top: 1.5rem;
 }
 
+.highlight {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
 /* Fix line height when title wraps */
 h1,
 h2,
